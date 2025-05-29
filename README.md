@@ -1,4 +1,4 @@
-# ORACLE VIRTUAL BOX & ACTIVE DIRECTORY 
+# ORACLE VIRTUAL BOX & ACTIVE DIRECTORY LAB
 
 ![image](https://github.com/user-attachments/assets/d341aa27-38e2-4010-a238-9fbbd122516b)
   
